@@ -39,7 +39,7 @@ Each Role has a set of permissions that can be checked/unchecked for agents give
 <img src="https://i.imgur.com/d7zpLvH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+User were created to experience role power and to mimic real life scenarios with IT suppport tickets.
 </p>
 <br />
 
