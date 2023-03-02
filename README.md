@@ -47,6 +47,6 @@ User were created to experience role power and to mimic real life scenarios with
 <img src="https://i.imgur.com/CpO8t9h.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-SLA Plans are created by going to the Admin Panel > Manage > SLA Plans. Agents can apply a timeslot or due date for the SLA plan. Sets a deadline and the urgency of a ticket's completion.
+SLA Plans are created by going to the Admin Panel > Manage > SLA Plans. Agents can apply a timeslot or due date for the SLA plan. Sets a deadline and the urgency for a ticket's completion.
 </p>
 <br />
