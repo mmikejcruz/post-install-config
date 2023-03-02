@@ -39,7 +39,7 @@ Each Role has a set of permissions that can be checked/unchecked for agents give
 <img src="https://i.imgur.com/d7zpLvH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-User were created to experience role power and to mimic real life scenarios with IT suppport tickets.
+User were created to experience role power and to mimic real life scenarios with IT suppport tickets. The users were added to departments/teams giving them a specific job in the open source ticketing system.
 </p>
 <br />
 
